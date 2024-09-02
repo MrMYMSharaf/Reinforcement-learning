@@ -133,8 +133,3 @@ This catalog provides a structured approach to learning Reinforcement Learning (
 
 ---
 
-## Getting Started with Git
-
-### Step 1: Initialize a Git Repository
-```bash
-git init
