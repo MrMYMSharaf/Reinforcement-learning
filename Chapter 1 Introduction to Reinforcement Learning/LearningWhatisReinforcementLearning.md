@@ -2,7 +2,7 @@
 
 **Reinforcement learning** is an area of machine learning in which an agent learns by interacting with its environment to achieve a goal. The agent performs actions and receives feedback in the form of rewards or penalties. The goal is to learn a strategy, or policy, that maximizes cumulative rewards over time.
 
-![Reinforcement Learning Image](https://via.placeholder.com/600x200.png)
+![Reinforcement Learning Image](https://github.com/user-attachments/assets/c2c631db-7acc-40c9-9370-33b134fee111)
 
 ## What is reinforcement learning?
 
